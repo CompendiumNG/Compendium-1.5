@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/subversion/!svn/ver/1878/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs
+END
+UIExportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIExportDialog.java
+END
+UIReadersDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIReadersDialog.java
+END
+UILinkContentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UILinkContentDialog.java
+END
+UIJabberMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIJabberMessageDialog.java
+END
+UIWorkspaceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIWorkspaceDialog.java
+END
+UIConnectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIConnectionDialog.java
+END
+UIColorChooserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIColorChooserDialog.java
+END
+UIProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIProgressDialog.java
+END
+UISearchResultDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UISearchResultDialog.java
+END
+UISearchDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UISearchDialog.java
+END
+UIFontDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIFontDialog.java
+END
+UIImportDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIImportDialog.java
+END
+UIAboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIAboutDialog.java
+END
+UIDropSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIDropSelectionDialog.java
+END
+UISelectViewDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UISelectViewDialog.java
+END
+UIExportViewDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIExportViewDialog.java
+END
+UITrashViewDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UITrashViewDialog.java
+END
+UIExportRDFDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIExportRDFDialog.java
+END
+UIFavoriteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIFavoriteDialog.java
+END
+UIConvertFromMySQLDatabaseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIConvertFromMySQLDatabaseDialog.java
+END
+UIDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIDialog.java
+END
+UIImportFlashMeetingXMLDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIImportFlashMeetingXMLDialog.java
+END
+UIProjectOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIProjectOptionsDialog.java
+END
+UIStartUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIStartUp.java
+END
+UIMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIMessageDialog.java
+END
+UIExportMultipleViewDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIExportMultipleViewDialog.java
+END
+UINewUserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UINewUserDialog.java
+END
+UIImportXMLDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIImportXMLDialog.java
+END
+UIOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIOptionsDialog.java
+END
+UIGroupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIGroupDialog.java
+END
+UIAerialDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIAerialDialog.java
+END
+UIDatabaseManagementDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIDatabaseManagementDialog.java
+END
+UIDeletedViewDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIDeletedViewDialog.java
+END
+UIExportXMLDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIExportXMLDialog.java
+END
+UILinkEditDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UILinkEditDialog.java
+END
+UIDropFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIDropFileDialog.java
+END
+UIBackupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIBackupDialog.java
+END
+UISystemSettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UISystemSettingsDialog.java
+END
+UIUserManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIUserManagerDialog.java
+END
+UIDatabaseAdministrationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIDatabaseAdministrationDialog.java
+END
+UIImageSizeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIImageSizeDialog.java
+END
+UIHTMLFormatDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIHTMLFormatDialog.java
+END
+UILogonDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UILogonDialog.java
+END
+UINewDatabaseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UINewDatabaseDialog.java
+END
+UIConvertFromDerbyDatabaseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UIConvertFromDerbyDatabaseDialog.java
+END
+UINodeContentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/dialogs/UINodeContentDialog.java
+END

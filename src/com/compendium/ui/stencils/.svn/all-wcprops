@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/!svn/ver/1878/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils
+END
+UIStencilDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils/UIStencilDialog.java
+END
+DraggableStencilIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils/DraggableStencilIcon.java
+END
+UIStencilManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils/UIStencilManager.java
+END
+UIStencilSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils/UIStencilSet.java
+END
+UIStencilSetDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils/UIStencilSetDialog.java
+END
+UIStencilItemDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/stencils/UIStencilItemDialog.java
+END

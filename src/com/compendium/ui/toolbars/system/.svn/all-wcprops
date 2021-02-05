@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/!svn/ver/1878/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system
+END
+UIToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/UIToolBar.java
+END
+UIToolBarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/UIToolBarPanel.java
+END
+DraggableToolBarIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/DraggableToolBarIcon.java
+END
+IUIToolBarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/IUIToolBarManager.java
+END
+UIToolBarController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/UIToolBarController.java
+END
+UIToolBarImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/UIToolBarImages.java
+END
+UIToolBarControllerRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/UIToolBarControllerRow.java
+END
+UIToolBarFloater.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/system/UIToolBarFloater.java
+END

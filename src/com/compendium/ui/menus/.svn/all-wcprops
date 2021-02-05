@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/!svn/ver/1878/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus
+END
+UIMenuFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuFile.java
+END
+UIMenuTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuTools.java
+END
+UIMenuWorkspaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuWorkspaces.java
+END
+UIMenuFavorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuFavorites.java
+END
+UIMenuEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuEdit.java
+END
+IUIMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/IUIMenu.java
+END
+UIMenuHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuHelp.java
+END
+UIMenuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuManager.java
+END
+UIMenuView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuView.java
+END
+UIMenuWindows.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/menus/UIMenuWindows.java
+END

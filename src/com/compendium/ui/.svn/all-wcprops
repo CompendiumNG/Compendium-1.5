@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/!svn/ver/1878/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui
+END
+UIAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIAudio.java
+END
+UIFileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIFileChooser.java
+END
+UIDesktopManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIDesktopManager.java
+END
+ProjectCompendiumFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/ProjectCompendiumFrame.java
+END
+UIImages.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIImages.java
+END
+ExecuteControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/ExecuteControl.java
+END
+UIDatabaseUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIDatabaseUpdate.java
+END
+UIScrollableMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIScrollableMenu.java
+END
+UIStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIStatusBar.java
+END
+UIViewOutline.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIViewOutline.java
+END
+UIList.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIList.java
+END
+UIArrange.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIArrange.java
+END
+UIViewHistoryBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIViewHistoryBar.java
+END
+IUIConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/IUIConstants.java
+END
+UINode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UINode.java
+END
+UIFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIFileFilter.java
+END
+UILine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UILine.java
+END
+TableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/TableMap.java
+END
+UITableHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UITableHeaderRenderer.java
+END
+IUIArrange.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/IUIArrange.java
+END
+UIRefreshManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIRefreshManager.java
+END
+UIButtonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIButtonPanel.java
+END
+UILink.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UILink.java
+END
+UIReferenceNodeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIReferenceNodeManager.java
+END
+UIShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIShape.java
+END
+UIHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIHistory.java
+END
+UIProjectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIProjectList.java
+END
+LabelListCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/LabelListCellRenderer.java
+END
+ListTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/ListTableModel.java
+END
+FormatProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/FormatProperties.java
+END
+UIViewUnread.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIViewUnread.java
+END
+UIScribblePad.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIScribblePad.java
+END
+UIButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIButton.java
+END
+ImportImageFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/ImportImageFolder.java
+END
+UIUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIUtilities.java
+END
+UINavComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UINavComboBox.java
+END
+UITextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UITextArea.java
+END
+UIViewPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIViewPane.java
+END
+UINavList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UINavList.java
+END
+UIListViewFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIListViewFrame.java
+END
+UIMapViewFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIMapViewFrame.java
+END
+UIViewFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIViewFrame.java
+END
+TableSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/TableSorter.java
+END
+UIArrangeLeftRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIArrangeLeftRight.java
+END
+UIAlign.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIAlign.java
+END
+UIArrangeTopDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIArrangeTopDown.java
+END
+UIAerialViewPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIAerialViewPane.java
+END
+UIViewOutlineTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/UIViewOutlineTreeNode.java
+END

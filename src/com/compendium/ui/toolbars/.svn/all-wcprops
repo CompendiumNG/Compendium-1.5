@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/!svn/ver/1878/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars
+END
+UIToolBarTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarTags.java
+END
+UIToolBarMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarMain.java
+END
+UIToolBarZoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarZoom.java
+END
+UIToolBarNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarNode.java
+END
+UIToolBarScribble.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarScribble.java
+END
+IUIToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/IUIToolBar.java
+END
+UIToolBarFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarFormat.java
+END
+UIToolBarMeeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarMeeting.java
+END
+UIToolBarData.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarData.java
+END
+UIToolBarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/!svn/ver/1883/public/Compendium/Compendium-v1.5.3-Alpha5/src/com/compendium/ui/toolbars/UIToolBarManager.java
+END
